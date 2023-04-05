@@ -20,5 +20,3 @@ export default function PTSlate(){
         </div>
     )
 }
-
-module.exports = PTSlate
