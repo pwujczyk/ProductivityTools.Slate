@@ -1,0 +1,21 @@
+{
+  "name": "productivitytools.slate",
+  "version": "1.0.0",
+  "description": "Productivity tools implementation of the slate editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwujczyk/ProductivityTools.Slate.git"
+  },
+  "keywords": [],
+  "author": "Pawel Wujczyk",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0",
+    "slate": "^0.93.0",
+    "slate-react": "^0.93.0"
+  }
+}
